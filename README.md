@@ -15,11 +15,11 @@ EIC are rather meant to generate freedom, happiness and company-wide higher qual
 
 In this sense we could also call Profit SHaring Tokens (PST) - Freedom Sharing Tokens (FSTs) in the enterprise context.
 
-What AR is in the Open Source World - is EIC in the Enterprise World.
-What Verto is in the Open Source World - Verto Enterprise is in the Enterprise World.
-What GitCoin is in the Open Source World - Peer 2 Peer Enterprise is in the Inner Source World.
+What AR is in the Open Source World - is EIC in the Enterprise World  
+What Verto is in the Open Source World - Verto Enterprise is in the Enterprise World  
+What GitCoin is in the Open Source World - Peer 2 Peer Enterprise is in the Inner Source World  
 
 
 ## How we - Enterprise Folks - want to support Nest.land + Arweave
 We will facilitate regular TGIF Hackathons in several Enterprises which give enterprise people the chance to freely contribute to Open Source Projects / Modules.
-A growing number of managers seems to understand that this is time well invested to support mutual education among "their workforce" and also to attract young talents as potential employees.
+A growing number of managers seems to understand that this is time well invested to support mutual education among "their workforce" and also to attract young talents as potential employees...
