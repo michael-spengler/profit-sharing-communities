@@ -1,4 +1,4 @@
-# PSC in the Enterprise Context
+# Profit Sharing Tokens (PSC) in the Enterprise Context
 
 ## Assumption
 It is a cool thing if people can solve the tasks they like and delegate the rest.
@@ -13,7 +13,7 @@ company wide EIC. As EIC can not be traded / swaped to Fiat currency we guess we
 
 EIC are rather meant to generate freedom, happiness and company-wide higher quality of software solutions as anyone can solve the tasks he likes and delegate the rest. 
 
-In this sense we could also call Profit SHaring Tokens (PST) - Freedom Sharing Tokens (FSTs) in the enterprise context.
+In this sense we could also call Profit Sharing Tokens (PST) - Freedom Sharing Tokens (FSTs) in the enterprise context.
 
 What AR is in the Open Source World - is EIC in the Enterprise World  
 What Verto is in the Open Source World - Verto Enterprise is in the Enterprise World  
