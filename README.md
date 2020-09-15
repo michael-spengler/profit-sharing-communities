@@ -5,13 +5,15 @@ It is a cool thing if people can solve the tasks they like and delegate the rest
 
 ## History
 ### Peer 2 Peer Enterprise  
-For Income Tax related unnecessary overhead we decided to use an Enterprise Internal Coin (EIC). The value of it comes from being able to delegate / fund tasks which you do not like to solve by your own.
+For income tax related unnecessary overhead we decided to use an Enterprise Internal Coin (EIC). The value of it comes from being able to delegate / fund tasks which you do not like to solve by your own.
 
 ## Plan
 Additionally to the Peer 2 Peer Enterprise mechanism we would like to introduce project specific enterprise-internal profit sharing tokens which could be traded to 
-company specific EIC. As EIC can not be traded / swaped to Fiat currency we guess we are save from income taxes or other penalties for creating value. 
+company wide EIC. As EIC can not be traded / swaped to Fiat currency we guess we are save from income taxes or other penalties for creating value. 
 
-In this sense we could also call PSTs Freedom Sharing Tokens (FSTs) in the enterprise context.
+EIC are rather meant to generate freedom, happiness and company-wide higher quality of software solutions as anyone can solve the tasks he likes and delegate the rest. 
+
+In this sense we could also call Profit SHaring Tokens (PST) - Freedom Sharing Tokens (FSTs) in the enterprise context.
 
 What AR is in the Open Source World - is EIC in the Enterprise World.
 What Verto is in the Open Source World - Verto Enterprise is in the Enterprise World.
