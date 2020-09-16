@@ -5,7 +5,7 @@ It is a cool thing if people can solve the tasks they like and delegate the rest
 
 ## History
 ### Peer 2 Peer Enterprise  
-For income tax related unnecessary overhead we decided to use an Enterprise Internal Coin (EIC). The value of it comes from being able to delegate / fund tasks which you do not like to solve by your own. The Peer 2 Peer Enterprise was heavily inspired by gitcoin.co. It can even be perceived as the gitcoin for enterprise internal contexts.
+For income tax related unnecessary overhead we decided to use an Enterprise Internal Coin (EIC). The value of it comes from being able to delegate / fund tasks which you do not like to solve on your own. The Peer 2 Peer Enterprise app was heavily inspired by gitcoin.co. It can even be perceived as the gitcoin for enterprise internal contexts.
 
 ## Plan
 Additionally to the Peer 2 Peer Enterprise mechanism we would like to introduce project specific enterprise-internal profit sharing tokens which could be traded to 
