@@ -1,4 +1,4 @@
-# Profit Sharing Tokens (PSC) in the Enterprise Context
+# Profit Sharing Tokens (PST) in the Enterprise Context
 
 ## Assumption
 It is a cool thing if people can solve the tasks they like and delegate the rest.
